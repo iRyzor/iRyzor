@@ -1,6 +1,6 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iRyzor&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iRyzor&theme=dracula)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iRyzor&theme=dracula)
+![](https://raw.githubusercontent.com/iRyzor/iRyzor/master/profile-summary-card-output/omni/0-profile-details.svg)
+![](https://raw.githubusercontent.com/iRyzor/iRyzor/master/profile-summary-card-output/omni/1-repos-per-language.svg)
+![](https://raw.githubusercontent.com/iRyzor/iRyzor/master/profile-summary-card-output/omni/3-stats.svg)
 
 <!--
 **iRyzor/iRyzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
