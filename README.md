@@ -1,4 +1,6 @@
-## Hi there 👋
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iRyzor&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iRyzor&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iRyzor&theme=dracula)
 
 <!--
 **iRyzor/iRyzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
